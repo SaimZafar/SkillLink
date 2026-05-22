@@ -1,0 +1,8 @@
+
+taskkill /F /IM node.exe
+
+cd C:\skilllink\backend
+node app.js
+
+cd C:\skilllink\frontend
+npm start
